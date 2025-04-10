@@ -1,0 +1,1 @@
+print('From main 1.py file')
